@@ -1,4 +1,4 @@
-# Input files for conventional MD simulations
+# Input files for conventional MD simulations without ligands
 Supporting Information for a paper describing MD simulations for the S810L mutant of mineralocorticoid receptor
 
 - [`wt/init`](wt/init): This folder contains input files used for conventioanl MD of wildtype without ligands.
